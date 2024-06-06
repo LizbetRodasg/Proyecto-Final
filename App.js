@@ -4,21 +4,14 @@ import { SafeAreaView, StyleSheet, Text, View } from "react-native";
 import Card from "./Card";
 
 const cards = [
-  // "🥹",
-  // "🗣️",
-  // "🦷",
-  // "🍑",
-  // "🌪️",
-  // "🌎",
-  "🐷",
-  "🪝",
-  "⚛️",
-  "🔑",
-  "🥕",
-  "🥑",
-  // "👻",
-  // "🥶",
-  // "🥵",
+
+  "🦔",
+  "🐍",
+  "🐙",
+  "🦝",
+  "🦚",
+  "🦦",
+
 ];
 
 export default function App() {
