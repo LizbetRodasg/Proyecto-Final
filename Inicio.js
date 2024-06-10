@@ -3,7 +3,7 @@ import { View, Text, TouchableOpacity, StyleSheet, ImageBackground } from "react
 
 
 export default function Inicio({ onStart }) {
-  // URL de la imagen que deseas usar como fondo
+  // URL de la imagen
   const backgroundImageUrl = "https://imgur.com/uSsGjbC.jpg";
 
   return (
